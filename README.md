@@ -13,7 +13,7 @@
 </div>
 
 ##
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=nightowl#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-dark-mode-only)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CarolSal&theme=nightowl#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-dark-mode-only)
 
 
 ##
@@ -21,7 +21,8 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/532819595048910849/1086384100635578601/download20230305172052.png?width=473&height=473">
+  <img align="right" height="150" style="border-radius:50px;" 
+src="https://media.discordapp.net/attachments/532819595048910849/1090048482276024361/download20230301200047.png?width=473&height=473">
 </div>
 
 ##
