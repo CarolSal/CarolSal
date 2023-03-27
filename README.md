@@ -13,7 +13,7 @@
 </div>
 
 ##
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CarolSal&theme=nightowl#gh-dark-mode-only)](https://https://github.com/CarolSal)/github-readme-activity-graph#gh-dark-mode-only)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CarolSal&theme=nightowl#gh-dark-mode-only)
 
 
 ##
