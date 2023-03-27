@@ -1,14 +1,20 @@
- 🐌 Olá!! Sou a Carol 🐌
 
-- 🍂 Recentemente estou estudando HTML5, CSS3 e JS
-- 🎃 Gosto de desenhar, jogar RPG, fazer panquecas e ouvir musica o tempo todo
 ##
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FEEA94&size=35&center=true&vCenter=true&width=1000&lines=Ola!+Seja+Bem+Vindo!+:%29;Me+chamo+Caroline+Salvador;Tenho+22+anos+e+sou+do+Brasil;Estudo+Desenvolvimento+Web+;)](https://git.io/typing-svg)
+
+##
+
 <div>
   <a href= "https://github.com/CarolSal"></a>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=CarolSal&show_icons=true&theme=darcula#gh-dark-mode-only)](https://github.com/CarolSal/github-readme-stats#gh-dark-mode-only">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=CarolSal&show_icons=true&theme=nightowl#gh-dark-mode-only)](https://github.com/CarolSal/github-readme-stats#gh-dark-mode-only">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolSal&theme=darcula&layout=compact)](https://github.com/CarolSal/github-readme-stats">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolSal&theme=nightowl&layout=compact)](https://github.com/CarolSal/github-readme-stats">
 </div>
+
+##
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=nightowl#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-dark-mode-only)
+
 
 ##
 <div style="display: inline_block"><br>
@@ -22,3 +28,9 @@
    <a href = "mailto:caroline.salvadoralmeida@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/carolcsa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+ ##
+ 
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarolSal}/count.svg" /></p> 
+<br></div>
