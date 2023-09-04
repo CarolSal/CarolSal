@@ -9,11 +9,8 @@
   <a href= "https://github.com/CarolSal"></a>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=CarolSal&show_icons=true&theme=nightowl#gh-dark-mode-only)](https://github.com/CarolSal/github-readme-stats#gh-dark-mode-only">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolSal&theme=nightowl&layout=compact)](https://github.com/CarolSal/github-readme-stats">
 </div>
 
-##
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CarolSal&theme=nightowl#gh-dark-mode-only)
 
 
 ##
