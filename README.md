@@ -1,7 +1,7 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FEEA94&size=35&center=true&vCenter=true&width=1000&lines=Ola!+Seja+Bem+Vindo!+:%29;Me+chamo+Caroline+Salvador;Tenho+23+anos+e+sou+do+Brasil;Estudo+Desenvolvimento+Web+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FEEA94&size=35&center=true&vCenter=true&width=1000&lines=Ola!+Seja+Bem+Vindo!+:%29;Me+chamo+Caroline+Salvador;Tenho+24+anos+e+sou+do+Brasil;Estudo+Desenvolvimento+Web+;)](https://git.io/typing-svg)
 
 ##
 
